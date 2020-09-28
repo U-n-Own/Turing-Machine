@@ -103,12 +103,12 @@ q4,#,>
  
  //----------------q5
  
+ //Until now we checked for 0 and 1 checking again is redundant so we can get rid of this transitions
+ //q5,0
+ //q5,0,<
  
- q5,0
- q5,0,<
- 
- q5,1
- q5,1,<
+ //q5,1
+ //q5,1,<
  
  q5,x
  q5,x,<
